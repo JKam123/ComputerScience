@@ -55,4 +55,15 @@ if A and not B:
 if not A or B:
     print("Ok4")
 	
-	
+TASK6:
+
+Write a function which prints if a number has a positive or a negative value
+
+TASK7:
+
+Write a programm which prints the largest number out A, B and C. Considering that this
+code is given:
+
+A = 12
+B = 16
+C = 2
