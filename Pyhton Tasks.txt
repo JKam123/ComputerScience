@@ -67,3 +67,15 @@ code is given:
 A = 12
 B = 16
 C = 2
+
+
+TASK8:
+
+Write a programm which has the following functions:
+
+mmTOcm(Num) # Turns milimeter into centimeter
+cmTOm(Num) # Turns centimeter into meter
+mTOkm(Num) # Turns meter into kilo meter
+
+Each function should return the value NOT print it!
+then convert 150 mm to cm, convert 245 cm to m , convert 12466m to km and print the results
