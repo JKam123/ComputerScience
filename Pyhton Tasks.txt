@@ -1,0 +1,58 @@
+TASK 1:
+
+Write a programm which has a function that counts the letters in words.
+Then let this function print out the word count of:
+	Apple
+	This is a very cool sentence
+	Ok so now you got it!
+	
+def testFunction(A):
+	print(len(A))
+	
+testFunction("Apple")
+testFunction("This is a very cool sentence")
+testFunction("Ok so now you got it!")
+	
+TASK 2:
+Write the answer for the following:
+	def mySum(A,B):
+		print("Calcluating sum of " + str(A) + " and " + str(B) )
+		return A+B
+	
+	Var = 12
+	Var2 = mySum(Var,17)
+	print(Var2)
+	
+TASK3:
+
+Write a function that tells you if a number is odd or even
+
+TASK4:
+Find the errors in the following code:
+
+def getSquared(A):
+    print("Answer is: " + A**2)
+
+def printNameAndAge(Name,Age)
+    return "Hello " + Name +". You are " int(Age) "old"
+	
+TASK5:
+
+Get get the output of the following programm
+
+A = True
+B = False
+
+if A and B:
+    print("Ok1")
+
+if A or B:
+    print("Ok2")
+
+if A and not B:
+    print("Ok3")
+
+if not A or B:
+    print("Ok4")
+	
+	
