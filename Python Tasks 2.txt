@@ -1,0 +1,55 @@
+TASK 1
+
+Create a programm which creates a list which contains all odd numbers from 1 to 100
+And then prints it
+
+TASK 2
+
+Create a programm which is doing the following:
+		1) It asks for 5 names
+		2) Then it asks each of these persons for their email
+		3) At the end it prints each name and the email address belonging to it
+		
+
+TASK 3
+Determine the following:
+
+1) Is not(5>6) and (True or False) True or False?
+2) Is (5==4) or (not True)  True or False?
+
+
+TASK 4
+
+Determine the output of the following programms
+
+1)
+for i in range(3):
+       print i*i
+print "hi"
+
+2)
+s=0
+for x in [5,3,1]:
+    s=s+x
+print s
+
+3)
+
+x=16
+while x  > 5:
+   x=x/2
+print x
+
+4)
+a=7
+if a%2==1:
+   print "yoda"
+else:
+   print "do yoga"
+   
+TASK 5
+
+Write a program that constructs a list filled with random numbers from 1 to 100.
+The list should have 50 entries. Then when you have the list
+add 23 to each of the entries. After that print out each number.
+ 
